@@ -1,1 +1,3 @@
 # Consultancy-project
+............................
+The aim of this consultancy project is to create a e-commerce website for SMN candy, with separate modules so that the customers can purchase the product in ease.  We have worked on the Wordpress website to develop each modules. 
